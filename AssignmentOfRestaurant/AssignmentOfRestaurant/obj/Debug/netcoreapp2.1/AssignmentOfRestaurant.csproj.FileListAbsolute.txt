@@ -1,0 +1,11 @@
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\bin\Debug\netcoreapp2.1\AssignmentOfRestaurant.deps.json
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\bin\Debug\netcoreapp2.1\AssignmentOfRestaurant.runtimeconfig.json
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\bin\Debug\netcoreapp2.1\AssignmentOfRestaurant.runtimeconfig.dev.json
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\bin\Debug\netcoreapp2.1\AssignmentOfRestaurant.dll
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\bin\Debug\netcoreapp2.1\AssignmentOfRestaurant.pdb
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\obj\Debug\netcoreapp2.1\AssignmentOfRestaurant.csprojAssemblyReference.cache
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\obj\Debug\netcoreapp2.1\AssignmentOfRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\obj\Debug\netcoreapp2.1\AssignmentOfRestaurant.AssemblyInfoInputs.cache
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\obj\Debug\netcoreapp2.1\AssignmentOfRestaurant.AssemblyInfo.cs
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\obj\Debug\netcoreapp2.1\AssignmentOfRestaurant.dll
+C:\Users\Rucha.Varma\source\repos\AssignmentOfRestaurant\AssignmentOfRestaurant\obj\Debug\netcoreapp2.1\AssignmentOfRestaurant.pdb
